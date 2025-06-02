@@ -1,0 +1,46 @@
+[
+  {
+    "ID": "LOG001",
+    "NAME": "MX Master 3",
+    "GRAPHIC": "mx_master_3.png",
+    "DESCRIPTION": "Wireless ergonomic mouse with precise control and long battery life.",
+    "COST": "89.99",
+    "MSRP": "129.99",
+    "QTY": "10",
+    "BACKORDER": "0",
+    "BRAND": "Logitech"
+  },
+  {
+    "ID": "RZR001",
+    "NAME": "BlackShark V2",
+    "GRAPHIC": "blackshark_v2.png",
+    "DESCRIPTION": "Gaming headset with THX spatial audio and breathable ear cushions.",
+    "COST": "69.99",
+    "MSRP": "99.99",
+    "QTY": "20",
+    "BACKORDER": "5",
+    "BRAND": "Razer"
+  },
+  {
+    "ID": "ANK001",
+    "NAME": "PowerCore 10000",
+    "GRAPHIC": "powercore_10k.png",
+    "DESCRIPTION": "Compact power bank with high-speed charging for travel.",
+    "COST": "29.99",
+    "MSRP": "49.99",
+    "QTY": "15",
+    "BACKORDER": "2",
+    "BRAND": "Anker"
+  },
+  {
+    "ID": "SAM001",
+    "NAME": "Samsung T7 SSD",
+    "GRAPHIC": "samsung_t7.png",
+    "DESCRIPTION": "Portable SSD with high-speed USB 3.2 interface and encryption.",
+    "COST": "99.00",
+    "MSRP": "139.00",
+    "QTY": "18",
+    "BACKORDER": "1",
+    "BRAND": "Samsung"
+  }
+]
