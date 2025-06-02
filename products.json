@@ -79,7 +79,7 @@
   {
     "ID": "ANK002",
     "NAME": "Anker Soundcore Life Q30",
-    "GRAPHIC": "soundcore_q30.png",
+    "GRAPHIC": "soundcore_q30.webp",
     "DESCRIPTION": "Hybrid active noise cancelling headphones with 40-hour battery.",
     "COST": "59.99",
     "MSRP": "89.99",
@@ -90,7 +90,7 @@
   {
     "ID": "ANK003",
     "NAME": "Anker Nano II 65W",
-    "GRAPHIC": "nano_ii_65w.png",
+    "GRAPHIC": "nano_ii_65w.webp",
     "DESCRIPTION": "Compact GaN charger capable of fast-charging laptops and phones.",
     "COST": "34.99",
     "MSRP": "49.99",
@@ -101,7 +101,7 @@
   {
     "ID": "SAM001",
     "NAME": "Samsung T7 SSD",
-    "GRAPHIC": "samsung_t7.png",
+    "GRAPHIC": "samsung_t7.webp",
     "DESCRIPTION": "Portable SSD with high-speed USB 3.2 interface and encryption.",
     "COST": "99.00",
     "MSRP": "139.00",
@@ -112,7 +112,7 @@
   {
     "ID": "SAM002",
     "NAME": "Samsung 980 PRO 1TB",
-    "GRAPHIC": "980pro.png",
+    "GRAPHIC": "980pro.avif",
     "DESCRIPTION": "High-performance NVMe SSD for gaming and heavy workloads.",
     "COST": "129.99",
     "MSRP": "179.99",
