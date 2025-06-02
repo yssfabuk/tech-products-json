@@ -11,6 +11,28 @@
     "BRAND": "Logitech"
   },
   {
+    "ID": "LOG002",
+    "NAME": "Logitech G915 TKL",
+    "GRAPHIC": "g915_tkl.png",
+    "DESCRIPTION": "Wireless RGB mechanical gaming keyboard with low-profile keys.",
+    "COST": "159.99",
+    "MSRP": "229.99",
+    "QTY": "12",
+    "BACKORDER": "3",
+    "BRAND": "Logitech"
+  },
+  {
+    "ID": "LOG003",
+    "NAME": "Logitech Brio 4K",
+    "GRAPHIC": "brio_4k.png",
+    "DESCRIPTION": "Ultra HD webcam with HDR and Windows Hello support.",
+    "COST": "149.99",
+    "MSRP": "199.99",
+    "QTY": "8",
+    "BACKORDER": "1",
+    "BRAND": "Logitech"
+  },
+  {
     "ID": "RZR001",
     "NAME": "BlackShark V2",
     "GRAPHIC": "blackshark_v2.png",
@@ -19,6 +41,28 @@
     "MSRP": "99.99",
     "QTY": "20",
     "BACKORDER": "5",
+    "BRAND": "Razer"
+  },
+  {
+    "ID": "RZR002",
+    "NAME": "Razer Huntsman Mini",
+    "GRAPHIC": "huntsman_mini.png",
+    "DESCRIPTION": "60% optical gaming keyboard with Razer Chroma lighting.",
+    "COST": "89.99",
+    "MSRP": "119.99",
+    "QTY": "15",
+    "BACKORDER": "2",
+    "BRAND": "Razer"
+  },
+  {
+    "ID": "RZR003",
+    "NAME": "Razer Viper Ultimate",
+    "GRAPHIC": "viper_ultimate.png",
+    "DESCRIPTION": "Wireless ambidextrous gaming mouse with charging dock.",
+    "COST": "99.99",
+    "MSRP": "149.99",
+    "QTY": "14",
+    "BACKORDER": "0",
     "BRAND": "Razer"
   },
   {
@@ -33,6 +77,28 @@
     "BRAND": "Anker"
   },
   {
+    "ID": "ANK002",
+    "NAME": "Anker Soundcore Life Q30",
+    "GRAPHIC": "soundcore_q30.png",
+    "DESCRIPTION": "Hybrid active noise cancelling headphones with 40-hour battery.",
+    "COST": "59.99",
+    "MSRP": "89.99",
+    "QTY": "18",
+    "BACKORDER": "0",
+    "BRAND": "Anker"
+  },
+  {
+    "ID": "ANK003",
+    "NAME": "Anker Nano II 65W",
+    "GRAPHIC": "nano_ii_65w.png",
+    "DESCRIPTION": "Compact GaN charger capable of fast-charging laptops and phones.",
+    "COST": "34.99",
+    "MSRP": "49.99",
+    "QTY": "22",
+    "BACKORDER": "1",
+    "BRAND": "Anker"
+  },
+  {
     "ID": "SAM001",
     "NAME": "Samsung T7 SSD",
     "GRAPHIC": "samsung_t7.png",
@@ -41,6 +107,28 @@
     "MSRP": "139.00",
     "QTY": "18",
     "BACKORDER": "1",
+    "BRAND": "Samsung"
+  },
+  {
+    "ID": "SAM002",
+    "NAME": "Samsung 980 PRO 1TB",
+    "GRAPHIC": "980pro.png",
+    "DESCRIPTION": "High-performance NVMe SSD for gaming and heavy workloads.",
+    "COST": "129.99",
+    "MSRP": "179.99",
+    "QTY": "10",
+    "BACKORDER": "2",
+    "BRAND": "Samsung"
+  },
+  {
+    "ID": "SAM003",
+    "NAME": "Samsung Smart Monitor M8",
+    "GRAPHIC": "monitor_m8.png",
+    "DESCRIPTION": "Smart monitor with built-in streaming apps and USB-C connectivity.",
+    "COST": "399.99",
+    "MSRP": "499.99",
+    "QTY": "5",
+    "BACKORDER": "0",
     "BRAND": "Samsung"
   }
 ]
