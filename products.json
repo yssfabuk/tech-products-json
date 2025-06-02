@@ -68,7 +68,7 @@
   {
     "ID": "ANK001",
     "NAME": "PowerCore 10000",
-    "GRAPHIC": "powercore_10k.png",
+    "GRAPHIC": "powercore_10k.webp",
     "DESCRIPTION": "Compact power bank with high-speed charging for travel.",
     "COST": "29.99",
     "MSRP": "49.99",
